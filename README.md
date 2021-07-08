@@ -1,5 +1,5 @@
 # Psyche-Scan
-##### _This Application Lists the current number of COVID-19 cases reported!_
+##### _This Application compares and lists the accuracy of different algorithms and classifiers on a movie review dataset!_
 #
 ![image](https://user-images.githubusercontent.com/41852838/124912976-364a4b00-e00c-11eb-843e-1656fa886fc1.png)
 
@@ -9,9 +9,9 @@ It is possible to have more than one solution for the same problem however you d
 The proposed system Psyche Scan can be used to compare the accuracy of different algorithms and also find the overall accuracy and confidence of the system.
 
 ## Objective 
-● Comparing the accuracy of different algorithms.
-● Implementing a confidence generating
-● Implementing a voted classifier.
+- Comparing the accuracy of different algorithms.
+- Implementing a confidence generating
+- Implementing a voted classifier.
 
 ## Tech
 
@@ -20,7 +20,7 @@ Pysche Scan uses the folwoing Tech:
 - [Python]  
 - [NLTK Classifiers] 
 - [Python Graph Plooting Libraries] 
-- 
+ 
 
 ## Installation
 - Download the Files and run the project and download all the dependenices
