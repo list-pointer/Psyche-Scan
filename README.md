@@ -19,7 +19,7 @@ Pysche Scan uses the folwoing Tech:
 
 - [Python]  
 - [NLTK Classifiers] 
-- [Python Graph Plooting Libraries] 
+- [Python Graph Plotting Libraries] 
  
 
 ## Installation
